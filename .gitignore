@@ -1,0 +1,17 @@
+# Ignore model file
+asl_model.h5
+
+# Ignore dataset
+asl_alphabet_train/
+
+# Ignore Python virtual environments
+.venv/
+
+# Ignore build/dist folders
+.dist/
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db 
